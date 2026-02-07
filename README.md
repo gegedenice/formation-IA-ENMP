@@ -25,7 +25,7 @@ La “compréhension” et la “maîtrise” du langage, les nouvelles capacit�
 
 | Sessions            | Dates         | Contenu   | Programme                                                                       |
 | ------------------- | ------------- | --------- | ------------------------------------------------------------------------------- |
-| Journée 1           | 27/07/2025    | Module 1  | <p>Fondamentaux du Machine Learning et du</p><p>NLP</p>                         |
+| Journée 1           | 27/07/2025    | Module    | <p>Fondamentaux du Machine Learning et du</p><p>NLP</p>                         |
 | Visio intermédiaire | 08/09/2025    | Ixtex TDM |                                                                                 |
 | Journées 1 & 2      | 25-26/09/2025 | Module 2  | IA générative : word2vec, modèles d'embeddings, LLM, applications de 1er niveau |
 | Visio intermédiaire | 14/10/2025    |           |                                                                                 |
