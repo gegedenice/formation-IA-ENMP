@@ -17,7 +17,7 @@ Logique inductive : apprentissage à partir de grandes quantités de données
 {% endhint %}
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 **Logique déductive : On définit des règles explicites basées sur notre connaissance du métier, nos procédures**
 
 * Désherbage : appliquer manuellement un système de règles (filtres successifs) sur un fichiers de données d'exemplaires
@@ -27,7 +27,7 @@ Logique inductive : apprentissage à partir de grandes quantités de données
 
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 **Logique inductive : on observe des exemples (des faits, des données) et on en infère des modèles.**
 
 * Prédire les exemplaires à desherber en inférant les règles à partir de l'analyse du fichier &#x20;
