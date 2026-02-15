@@ -20,7 +20,7 @@ Définition : segment de droite orienté (flèche), ayant pour extrémités un p
 | Beagle         | 2      | 3            |
 | Bulldog        | 3      | 2            |
 
-| Repésentation en points                                         | Représentation en vecteurs                                      |
+| Représentation en points                                        | Représentation en vecteurs                                      |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | ![](<../.gitbook/assets/Capture d'écran 2025-11-03 124031.png>) | ![](<../.gitbook/assets/Capture d'écran 2025-11-03 124112.png>) |
 
